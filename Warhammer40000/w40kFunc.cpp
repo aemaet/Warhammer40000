@@ -100,7 +100,7 @@ Int32 CalculateHits(array< Int32 >^ hit_cubes, bool vehicle_under_fire, Random^ 
 	}
 	return attacks;
 }
-
+//Ò Ó Ò   ß Î Ñ Ò À Í Î Â È Ë Ñ ß
 char *reduce_arrs (array< Int32 >^ cubes, char *buf, Int32 size)
 {
 	buf = new char[size * 3 + 1];
